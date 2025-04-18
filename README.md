@@ -1,6 +1,6 @@
 #  Emojify 😄
 
-This project implements an **Emojifier** that maps input sentences to appropriate emojis, enhancing textual communication by capturing the underlying sentiment or context. Inspired by DeepLearning.AI's Deep Learning Specialization (Course 5: Sequence Models), it demonstrates practical applications of word embeddings and sequence models in natural language processing.&#8203;:contentReference[oaicite:2]{index=2}
+This project implements an **Emojifier** that maps input sentences to appropriate emojis, enhancing textual communication by capturing the underlying sentiment or context. Inspired by DeepLearning.AI's Deep Learning Specialization (Course 5: Sequence Models), it demonstrates practical applications of word embeddings and sequence models in natural language processing.
 
 ## 📌 Project Overview
 
