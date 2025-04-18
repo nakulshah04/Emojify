@@ -13,7 +13,7 @@ The Emojifier processes input sentences and predicts the most suitable emoji to 
 
 The project relies on the pre-trained GloVe word vectors (`glove.6B.50d.txt`), which are not included in the repository due to size constraints.
 
-- **Download GloVe Vectors**: [glove.6B.50d.txt](https://nlp.stanford.edu/data/glove.6B.zip)
+- **Download GloVe Vectors**: [glove.6B.50d.txt](https://drive.google.com/file/d/19szfmTiWCx9iVtEBjdu84o1z_HwxW4DF/view?usp=sharing)
 
 After downloading, extract the file and place `glove.6B.50d.txt` into the `data/` directory.
 
